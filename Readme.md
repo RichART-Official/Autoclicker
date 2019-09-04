@@ -1,4 +1,5 @@
-# Jorick's autoclicker
+# Autoclicker
+Simple Apple Script that pushes the left mouse button every five seconds. Handy if you need to solve a repetitive clicking task.
 ## Requirements
 - Computer running Mac OS
 
