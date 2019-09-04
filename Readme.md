@@ -4,7 +4,8 @@ Simple Apple Script that pushes the left mouse button every five seconds. Handy 
 - Computer running Mac OS
 
 ## Usage
-Before using the program make sure to set the right permissions by using these steps
+Before using the program make sure to set it up correctly by using these steps:
+
 **Setting permissions**
 1. Go to ```system preferences > Accessebility > Mouse & Trackpad```
 2. Turn on ```enable mouse keys```
